@@ -43,4 +43,4 @@ As part of the course, I completed an assignment that required me to write a Pyt
 
 **[Screenshot of Terminal Commands](https://github.com/IslamAlii/My-OSSU-Computer-Science-Learning-Path/blob/main/Intro%20CS/01%20-%20Python%20for%20Everybody/01%20-%20Installing%20Python/Image%20of%20the%20program%20being%20executed%20in%20the%20command%20line%20or%20terminal.PNG?raw=true)** <br/>
 **[Screenshot of the program in the code editor](https://github.com/IslamAlii/My-OSSU-Computer-Science-Learning-Path/blob/main/Intro%20CS/01%20-%20Python%20for%20Everybody/01%20-%20Installing%20Python/Image%20of%20the%20program%20being%20edited%20in%20a%20text%20editor.PNG?raw=true)** <br/>
-**[Screenshots of Assignment Submission]()** <br/>
+**[Screenshots of Assignment Submission](https://github.com/IslamAlii/My-OSSU-Computer-Science-Learning-Path/blob/main/Intro%20CS/01%20-%20Python%20for%20Everybody/01%20-%20Installing%20Python/Screenshots%20of%20Assignment%20Submission.PNG?raw=true)** <br/>
