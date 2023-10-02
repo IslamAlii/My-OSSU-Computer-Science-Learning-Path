@@ -1,4 +1,4 @@
-# Session 1 Summary
+# Session Summary
 
 ## Date: [1/10/2023]
 
