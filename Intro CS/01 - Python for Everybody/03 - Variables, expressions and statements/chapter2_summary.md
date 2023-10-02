@@ -1,6 +1,8 @@
 # Chapter: Variables, Expressions, and Statements
+### Date: [2/10/2023]
 
 This file provides a comprehensive summary of the key concepts covered in the chapter on Variables, Expressions, and Statements. During this chapter, we delved into fundamental aspects of programming with a focus on Python. Below, you'll find an overview of the topics we explored.
+
 
 ## Values and Types
 
@@ -49,6 +51,47 @@ Selecting mnemonic variable names is an art that can significantly enhance code 
 ## Debugging
 
 Debugging is a critical skill for every programmer. We tackled debugging techniques and solved exercises to help identify and rectify errors in Python programs.
+
+## Glossary
+
+Here is a glossary of terms related to the concepts covered in this chapter:
+
+- **Assignment**: A statement that assigns a value to a variable.
+
+- **Concatenate**: To join two operands end to end.
+
+- **Comment**: Information in a program that is meant for other programmers (or anyone reading the source code) and has no effect on the execution of the program.
+
+- **Evaluate**: To simplify an expression by performing the operations in order to yield a single value.
+
+- **Expression**: A combination of variables, operators, and values that represents a single result value.
+
+- **Floating Point**: A type that represents numbers with fractional parts.
+
+- **Integer**: A type that represents whole numbers.
+
+- **Keyword**: A reserved word that is used by the compiler to parse a program; you cannot use keywords like if, def, and while as variable names.
+
+- **Mnemonic**: A memory aid. We often give variables mnemonic names to help us remember what is stored in the variable.
+
+- **Modulus Operator**: An operator, denoted with a percent sign (%), that works on integers and yields the remainder when one number is divided by another.
+
+- **Operand**: One of the values on which an operator operates.
+
+- **Operator**: A special symbol that represents a simple computation like addition, multiplication, or string concatenation.
+
+- **Rules of Precedence**: The set of rules governing the order in which expressions involving multiple operators and operands are evaluated.
+
+- **Statement**: A section of code that represents a command or action. So far, the statements we have seen are assignments and print expression statements.
+
+- **String**: A type that represents sequences of characters.
+
+- **Type**: A category of values. The types we have seen so far are integers (type int), floating-point numbers (type float), and strings (type str).
+
+- **Value**: One of the basic units of data, like a number or string, that a program manipulates.
+
+- **Variable**: A name that refers to a value.
+
 
 ## Excercises
 
