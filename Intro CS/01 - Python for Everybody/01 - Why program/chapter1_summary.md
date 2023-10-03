@@ -1,8 +1,9 @@
 # Chapter: Introduction
 
+**Date: October 1, 2023**
+
 This file provides a comprehensive summary of the key concepts covered in the introduction chapter, where we explore the fundamentals of programming. In this chapter, we lay the groundwork for understanding the world of programming, with a specific focus on Python. Below, you'll find an overview of the topics we explored.
 
-## Date: [1/10/2023]
 
 ### Topics Covered
 
