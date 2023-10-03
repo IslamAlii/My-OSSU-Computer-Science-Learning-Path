@@ -1,6 +1,6 @@
 # Session Summary
 
-## Date: [1/10/2023]
+**Date: October 1, 2023**
 
 ### Topics Covered
 
