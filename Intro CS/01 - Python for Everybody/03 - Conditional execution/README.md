@@ -6,31 +6,31 @@ In this chapter, we explored the concept of conditional execution in programming
 
 ## Boolean Expressions
 
-- Boolean expressions are statements that evaluate to either True or False.
+Boolean expressions are statements that evaluate to either True or False.
 
 ## Logical Operators
 
-- Logical operators like `and`, `or`, and `not` are used to combine and manipulate Boolean expressions.
+Logical operators like `and`, `or`, and `not` are used to combine and manipulate Boolean expressions.
 
 ## Conditional Execution
 
-- Conditional statements, like `if`, `else`, and `elif`, enable us to execute code blocks based on certain conditions.
+Conditional statements, like `if`, `else`, and `elif`, enable us to execute code blocks based on certain conditions.
 
 ## Alternative Execution
 
-- Alternative execution allows us to provide different actions for different conditions.
+Alternative execution allows us to provide different actions for different conditions.
 
 ## Chained Conditionals
 
-- Chained conditionals involve multiple `if` and `elif` statements to handle various cases.
+Chained conditionals involve multiple `if` and `elif` statements to handle various cases.
 
 ## Nested Conditionals
 
-- Nested conditionals involve placing conditional statements inside other conditional blocks.
+Nested conditionals involve placing conditional statements inside other conditional blocks.
 
 ## Catching Exceptions using Try and Except
 
-- We learned how to handle exceptions and errors gracefully using `try` and `except` blocks.
+We learned how to handle exceptions and errors gracefully using `try` and `except` blocks.
 
 ## Short-Circuit Evaluation of Logical Expressions
 
@@ -41,12 +41,12 @@ In this chapter, we explored the concept of conditional execution in programming
 
 ## guardian pattern
 
-- Where we construct a logical expression with additional comparisons to take advantage of the short-circuit behavior.
+Where we construct a logical expression with additional comparisons to take advantage of the short-circuit behavior.
 
 
 ## Debugging
 
-- Debugging techniques were practiced to identify and fix errors in our code.
+Debugging techniques were practiced to identify and fix errors in our code.
 
 ## Glossary
 
