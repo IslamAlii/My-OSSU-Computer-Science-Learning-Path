@@ -39,6 +39,11 @@ In this chapter, we explored the concept of conditional execution in programming
 - `or` Operator: Similarly, with the `or` operator, if the left condition is `True`, the whole expression becomes `True`, and the right condition is not evaluated.
 - Short-circuit evaluation is valuable because it can optimize code execution by avoiding unnecessary evaluations, especially when dealing with complex or resource-intensive conditions. It ensures that evaluations are performed only when they can potentially change the final result, improving efficiency and performance.
 
+## guardian pattern
+
+- Where we construct a logical expression with additional comparisons to take advantage of the short-circuit behavior.
+
+
 ## Debugging
 
 - Debugging techniques were practiced to identify and fix errors in our code.
