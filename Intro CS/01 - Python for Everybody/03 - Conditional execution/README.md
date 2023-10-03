@@ -1,4 +1,4 @@
-# Chapter summary: Conditional Execution
+# Chapter Summary: Conditional Execution
 
 **Date: October 3, 2023**
 
