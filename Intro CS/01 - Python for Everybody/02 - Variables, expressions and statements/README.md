@@ -1,4 +1,4 @@
-# Chapter summary: Variables, Expressions, and Statements
+# Chapter Summary: Variables, Expressions, and Statements
 
 **Date: October 2, 2023**
 
