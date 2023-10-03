@@ -1,4 +1,5 @@
 # Chapter Summary: Introduction 
+**Date: October 3, 2023**
 
 This README provides an overview of the key concepts covered in the introductory chapter. During this chapter, we delved into fundamental aspects of programming, laying the foundation for our journey into the world of computer science. Below, you'll find a summary of the topics we explored.
 
