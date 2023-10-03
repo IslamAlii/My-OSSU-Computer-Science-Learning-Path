@@ -1,5 +1,6 @@
 # Chapter: Variables, Expressions, and Statements
-### Date: [2/10/2023]
+
+**Date: October 2, 2023**
 
 This file provides a comprehensive summary of the key concepts covered in the chapter on Variables, Expressions, and Statements. During this chapter, we delved into fundamental aspects of programming with a focus on Python. Below, you'll find an overview of the topics we explored.
 
