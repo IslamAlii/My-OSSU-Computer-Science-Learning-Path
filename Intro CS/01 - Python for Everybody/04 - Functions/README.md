@@ -1,4 +1,4 @@
-# Chapter: Functions
+# Chapter Summary: Functions
 **Date: October 3, 2023**
 
 In this chapter, we explored the fundamental concept of functions in programming. Functions are an essential part of writing organized and modular code, allowing us to encapsulate logic into reusable blocks. Below, we'll provide an overview of the key topics covered in this chapter.
