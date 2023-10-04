@@ -1,5 +1,5 @@
 # Chapter Summary: Files
-**Date: October 3, 2023**
+**Date: October 4, 2023**
 
 In this chapter, we explored various aspects of working with files in programming. Below is a summary of the key topics covered in this chapter.
 
